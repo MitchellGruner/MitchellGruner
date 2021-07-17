@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MitchellGruner
 - 👀 I’m interested in software engineering and front end web development!
-- 🌱 I’m currently learning React and Java algorithms.
+- 🌱 I’m currently learning JavaScript algorithms and web developent.
 - 📫 How to reach me: you can reach me via phone at (530) 906-5979, or by email (mit.gruner@gmail.com).
 
 <!---
