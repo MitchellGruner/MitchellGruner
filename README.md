@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am a Front End Developer who is passionate about creating exciting and beneficial code, collaborating with like-minded individuals, and creating technology that is fun and up-lifting.  Some technologies I enjoy using are HTML and CSS, JavaScript, and ReactJS.
+I am a Mid Level Front End Developer with nearly two years of experience who is passionate about creating exciting code, collaborating with like-minded developers, and contributing to side projects in my free time. Some technologies I enjoy using are React, Tailwind, TypeScript, Sass, and JavaScript.
 
-I am currently a Front End Developer at Electronic Express in Nashville, Tennessee.  I studied Computer Science at California State University, Sacramento and decided to move to Nashville during my Senior year of college.  While taking online classes, I met some incredible people that have helped shape me into the person I am today.
+I am currently a Mid Level Front End Developer at Electronic Express in Nashville, Tennessee.  I earned a B.S. in Computer Science at California State University, Sacramento in May of 2021, and decided to move to Nashville during my Senior year of college.  While taking online classes, I met some incredible people that have helped shape me into the person I am today.
 
-I am working on a ReactJS project at the moment, which utilizes several different components which creates a Quiz-like experience.
+☁️ During my free time, I like to improve my side projects as well as contribute to open-source projects.
